@@ -102,7 +102,7 @@ class VigenereCipher:
 		return result
 
 	
-	
+  
 	
 
 alph = "".join(chr(c) for c in range(97, 123))
